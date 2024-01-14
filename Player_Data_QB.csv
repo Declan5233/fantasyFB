@@ -1,0 +1,520 @@
+WK,Game Date,OPP,RESULT,COMP,ATT,YDS,AVG,TD,INT,SCK,SCKY,RATE,ATT,YDS,AVG,TD,FUM,LOST,NAME,ID,YEAR,POSITION,TEAM,LOCATION
+18,1/7/2023,@Raiders,W 31 - 13,18,26,202,7.8,1,0,2,21,105,3,29,9.7,0,,,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Away
+17,1/1/2023,Broncos,W 27 - 24,29,42,328,7.8,3,1,0,0,106,4,8,2,0,,,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Home
+16,12/24/2022,Seahawks,W 24 - 10,16,28,224,8,2,0,1,4,106.8,2,8,4,1,,,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Home
+15,12/18/2022,@Texans,W 30 - 24,36,41,336,8.2,2,0,2,23,117.1,5,33,6.6,1,1,0,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Away
+14,12/11/2022,@Broncos,W 34 - 28,28,42,352,8.4,3,3,2,10,86.6,3,-3,-1,0,,,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Away
+13,12/4/2022,@Bengals,L 24 - 27,16,27,223,8.3,1,0,2,12,98.2,2,9,4.5,1,,,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Away
+12,11/27/2022,Rams,W 26 - 10,27,42,320,7.6,1,1,0,0,85.4,4,36,9,0,,,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Home
+11,11/21/2022,@Chargers,W 30 - 27,20,34,329,9.7,3,0,1,7,120.8,4,23,5.8,0,1,0,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Away
+10,11/13/2022,Jaguars,W 27 - 17,26,35,331,9.5,4,1,0,0,129.6,7,39,5.6,0,1,0,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Home
+9,11/7/2022,Titans,W 20 - 17,43,68,446,6.6,1,1,4,24,80.9,6,63,10.5,1,,,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Home
+7,10/23/2022,@49ers,W 44 - 23,25,34,423,12.4,3,1,1,6,132.4,,,,,1,0,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Away
+6,10/16/2022,Bills,L 20 - 24,25,40,338,8.4,2,2,3,19,85.2,4,21,5.2,0,,,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Home
+5,10/11/2022,Raiders,W 30 - 29,29,43,292,6.8,4,0,3,27,117.6,4,28,7,0,,,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Home
+4,10/3/2022,@Buccaneers,W 41 - 31,23,37,249,6.7,3,1,3,21,97.7,4,34,8.5,0,,,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Away
+3,9/25/2022,@Colts,L 17 - 20,20,35,262,7.5,1,1,1,5,78.5,4,26,6.5,0,,,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Away
+2,9/16/2022,Chargers,W 27 - 24,24,35,235,6.7,2,0,1,9,106.2,2,-1,-0.5,0,,,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Home
+1,9/11/2022,@Cardinals,W 44 - 21,30,39,360,9.2,5,0,0,0,144.2,3,5,1.7,0,1,0,Patrick Mahomes,Patrick-Mahomes,2022,QB,Kansas City Chiefs,Away
+18,1/8/2023,Patriots,W 35 - 23,19,31,254,8.2,3,1,2,17,106.1,9,16,1.8,0,,,Josh Allen,Josh-Allen-4,2022,QB,Buffalo Bills,Home
+16,12/24/2022,@Bears,W 35 - 13,15,26,172,6.6,2,2,1,0,71.3,6,41,6.8,1,1,0,Josh Allen,Josh-Allen-4,2022,QB,Buffalo Bills,Away
+15,12/18/2022,Dolphins,W 32 - 29,25,40,304,7.6,4,0,2,8,119.2,10,77,7.7,0,2,1,Josh Allen,Josh-Allen-4,2022,QB,Buffalo Bills,Home
+14,12/11/2022,Jets,W 20 - 12,16,27,147,5.4,1,0,3,17,86.5,10,47,4.7,1,,,Josh Allen,Josh-Allen-4,2022,QB,Buffalo Bills,Home
+13,12/2/2022,@Patriots,W 24 - 10,22,33,223,6.8,2,0,2,0,106,8,20,2.5,0,1,1,Josh Allen,Josh-Allen-4,2022,QB,Buffalo Bills,Away
+12,11/24/2022,@Lions,W 28 - 25,24,42,253,6,2,1,3,16,80.8,10,78,7.8,1,1,0,Josh Allen,Josh-Allen-4,2022,QB,Buffalo Bills,Away
+11,11/20/2022,Browns,W 31 - 23,18,27,197,7.3,1,0,2,11,100.4,3,7,2.3,0,,,Josh Allen,Josh-Allen-4,2022,QB,Buffalo Bills,Home
+10,11/13/2022,Vikings,L 30 - 33,29,43,330,7.7,1,2,2,19,78.6,6,84,14,0,1,1,Josh Allen,Josh-Allen-4,2022,QB,Buffalo Bills,Home
+9,11/6/2022,@Jets,L 17 - 20,18,34,205,6,0,2,5,22,46.8,9,86,9.6,2,2,0,Josh Allen,Josh-Allen-4,2022,QB,Buffalo Bills,Away
+8,10/31/2022,Packers,W 27 - 17,13,25,218,8.7,2,2,2,2,75.1,6,49,8.2,0,,,Josh Allen,Josh-Allen-4,2022,QB,Buffalo Bills,Home
+6,10/16/2022,@Chiefs,W 24 - 20,27,40,329,8.2,3,0,1,11,117.6,12,32,2.7,0,1,1,Josh Allen,Josh-Allen-4,2022,QB,Buffalo Bills,Away
+5,10/9/2022,Steelers,W 38 - 3,20,31,424,13.7,4,1,0,0,134.1,5,42,8.4,0,,,Josh Allen,Josh-Allen-4,2022,QB,Buffalo Bills,Home
+4,10/2/2022,@Ravens,W 23 - 20,19,36,213,5.9,1,1,1,12,68.4,11,70,6.4,1,1,0,Josh Allen,Josh-Allen-4,2022,QB,Buffalo Bills,Away
+3,9/25/2022,@Dolphins,L 19 - 21,42,63,400,6.4,2,0,4,18,94.7,8,47,5.9,0,3,1,Josh Allen,Josh-Allen-4,2022,QB,Buffalo Bills,Away
+2,9/19/2022,Titans,W 41 - 7,26,38,317,8.3,4,0,1,4,129,1,10,10,0,,,Josh Allen,Josh-Allen-4,2022,QB,Buffalo Bills,Home
+1,9/9/2022,@Rams,W 31 - 10,26,31,297,9.6,3,2,2,5,112,10,56,5.6,1,,,Josh Allen,Josh-Allen-4,2022,QB,Buffalo Bills,Away
+18,1/8/2023,Giants,W 22 - 16,20,35,229,6.5,0,1,3,22,65.1,9,13,1.4,0,,,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Home
+17,1/1/2023,Saints,L 10 - 20,,,,,,,,,,,,,,,,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Home
+16,12/24/2022,@Cowboys,L 34 - 40,,,,,,,,,,,,,,,,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Away
+15,12/18/2022,@Bears,W 25 - 20,22,37,315,8.5,0,2,1,6,64.6,17,61,3.6,3,,,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Away
+14,12/11/2022,@Giants,W 48 - 22,21,31,217,7,2,0,4,33,109.2,7,77,11,1,,,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Away
+13,12/4/2022,Titans,W 35 - 10,29,39,380,9.7,3,0,2,5,130.3,5,12,2.4,1,1,0,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Home
+12,11/28/2022,Packers,W 40 - 33,16,28,153,5.5,2,0,2,16,96.3,17,157,9.2,0,1,0,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Home
+11,11/20/2022,@Colts,W 17 - 16,18,25,190,7.6,1,0,3,17,107.1,16,86,5.4,1,2,1,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Away
+10,11/15/2022,Commanders,L 21 - 32,17,26,175,6.7,2,1,1,5,94.2,6,28,4.7,1,,,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Home
+9,11/4/2022,@Texans,W 29 - 17,21,27,243,9,2,0,4,26,128.9,9,23,2.6,0,2,1,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Away
+8,10/30/2022,Steelers,W 35 - 13,19,28,285,10.2,4,0,3,18,140.6,2,10,5,0,,,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Home
+6,10/17/2022,Cowboys,W 26 - 17,15,25,155,6.2,2,0,4,23,104.6,9,27,3,0,1,0,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Home
+5,10/9/2022,@Cardinals,W 20 - 17,26,36,239,6.6,0,0,2,21,89.9,15,61,4.1,2,,,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Away
+4,10/2/2022,Jaguars,W 29 - 21,16,25,204,8.2,0,1,2,13,72.8,16,38,2.4,1,1,0,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Home
+3,9/25/2022,@Commanders,W 24 - 8,22,35,340,9.7,3,0,3,12,123.5,9,20,2.2,0,,,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Away
+2,9/20/2022,Vikings,W 24 - 7,26,31,333,10.7,1,1,3,10,108.7,11,57,5.2,2,1,0,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Home
+1,9/11/2022,@Lions,W 38 - 35,18,32,243,7.6,0,0,1,4,80.6,17,90,5.3,1,,,Jalen Hurts,Jalen-Hurts,2022,QB,Philadelphia Eagles,Away
+18,1/8/2023,Ravens,W 27 - 16,25,42,215,5.1,1,0,2,13,81,3,10,3.3,0,1,1,Joe Burrow,Joe-Burrow,2022,QB,Cincinnati Bengals,Home
+16,12/24/2022,@Patriots,W 22 - 18,40,52,375,7.2,3,2,2,6,99.4,4,5,1.2,0,,,Joe Burrow,Joe-Burrow,2022,QB,Cincinnati Bengals,Away
+15,12/18/2022,@Buccaneers,W 34 - 23,27,39,200,5.1,4,1,2,16,104.6,3,8,2.7,0,1,0,Joe Burrow,Joe-Burrow,2022,QB,Cincinnati Bengals,Away
+14,12/11/2022,Browns,W 23 - 10,18,33,239,7.2,2,1,1,3,85.3,6,10,1.7,0,,,Joe Burrow,Joe-Burrow,2022,QB,Cincinnati Bengals,Home
+13,12/4/2022,Chiefs,W 27 - 24,25,31,286,9.2,2,0,1,7,126.6,11,46,4.2,1,,,Joe Burrow,Joe-Burrow,2022,QB,Cincinnati Bengals,Home
+12,11/27/2022,@Titans,W 20 - 16,22,37,270,7.3,1,0,1,4,91,9,32,3.6,0,,,Joe Burrow,Joe-Burrow,2022,QB,Cincinnati Bengals,Away
+11,11/20/2022,@Steelers,W 37 - 30,24,39,355,9.1,4,2,2,9,104.1,4,5,1.2,0,,,Joe Burrow,Joe-Burrow,2022,QB,Cincinnati Bengals,Away
+9,11/6/2022,Panthers,W 42 - 21,22,28,206,7.4,1,0,1,5,109.2,4,9,2.2,1,,,Joe Burrow,Joe-Burrow,2022,QB,Cincinnati Bengals,Home
+8,11/1/2022,@Browns,L 13 - 32,25,35,232,6.6,2,1,5,39,96.4,1,2,2,0,1,1,Joe Burrow,Joe-Burrow,2022,QB,Cincinnati Bengals,Away
+7,10/23/2022,Falcons,W 35 - 17,34,42,481,11.4,3,0,3,22,138.2,3,20,6.7,1,,,Joe Burrow,Joe-Burrow,2022,QB,Cincinnati Bengals,Home
+6,10/16/2022,@Saints,W 30 - 26,28,37,300,8.1,3,0,3,27,126,4,25,6.2,1,,,Joe Burrow,Joe-Burrow,2022,QB,Cincinnati Bengals,Away
+5,10/10/2022,@Ravens,L 17 - 19,24,35,217,6.2,1,1,2,15,82.7,3,6,2,1,,,Joe Burrow,Joe-Burrow,2022,QB,Cincinnati Bengals,Away
+4,9/30/2022,Dolphins,W 27 - 15,20,31,287,9.3,2,0,1,6,115.9,5,6,1.2,0,,,Joe Burrow,Joe-Burrow,2022,QB,Cincinnati Bengals,Home
+3,9/25/2022,@Jets,W 27 - 12,23,36,275,7.6,3,0,2,14,114.9,5,0,0,0,,,Joe Burrow,Joe-Burrow,2022,QB,Cincinnati Bengals,Away
+2,9/18/2022,@Cowboys,L 17 - 20,24,36,199,5.5,1,0,6,34,89.9,4,26,6.5,0,1,0,Joe Burrow,Joe-Burrow,2022,QB,Cincinnati Bengals,Away
+1,9/11/2022,Steelers,L 20 - 23,33,53,338,6.4,2,4,7,39,61.7,6,47,7.8,0,2,1,Joe Burrow,Joe-Burrow,2022,QB,Cincinnati Bengals,Home
+18,1/8/2023,Rams,W 19 - 16,19,31,213,6.9,1,2,3,8,65.7,4,51,12.8,0,,,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Home
+17,1/1/2023,Jets,W 23 - 6,18,29,183,6.3,2,0,4,35,103.1,5,18,3.6,0,1,0,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Home
+16,12/24/2022,@Chiefs,L 10 - 24,25,40,215,5.4,1,1,2,15,74.5,3,16,5.3,0,,,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Away
+15,12/16/2022,49ers,L 13 - 21,31,44,238,5.4,1,0,3,31,90.9,1,18,18,0,1,0,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Home
+14,12/11/2022,Panthers,L 24 - 30,21,36,264,7.3,3,2,3,23,85.9,3,20,6.7,0,,,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Home
+13,12/4/2022,@Rams,W 27 - 23,28,39,367,9.4,3,1,4,19,116.1,2,3,1.5,0,1,1,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Away
+12,11/27/2022,Raiders,L 34 - 40,27,37,328,8.9,2,1,3,21,106.6,5,22,4.4,0,1,1,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Home
+10,11/13/2022,@Buccaneers,L 16 - 21,23,33,275,8.3,2,0,3,31,115.1,4,22,5.5,0,1,1,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Away
+9,11/6/2022,@Cardinals,W 31 - 21,26,34,275,8.1,2,1,2,12,106.9,6,38,6.3,0,,,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Away
+8,10/30/2022,Giants,W 27 - 13,23,34,212,6.2,2,0,3,22,104,5,26,5.2,0,,,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Home
+7,10/23/2022,@Chargers,W 37 - 23,20,27,210,7.8,2,1,2,19,105.5,4,7,1.8,0,1,1,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Away
+6,10/16/2022,Cardinals,W 19 - 9,20,31,197,6.4,0,0,5,37,82.3,6,48,8,0,1,0,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Home
+5,10/9/2022,@Saints,L 32 - 39,16,25,268,10.7,3,0,3,23,139.7,3,13,4.3,0,,,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Away
+4,10/2/2022,@Lions,W 48 - 45,23,30,320,10.7,2,0,0,0,132.6,7,49,7,1,,,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Away
+3,9/25/2022,Falcons,L 23 - 27,32,44,325,7.4,2,1,2,17,99.2,2,-1,-0.5,0,,,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Home
+2,9/18/2022,@49ers,L 7 - 27,24,30,197,6.6,0,1,2,17,80.1,2,2,1,0,,,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Away
+1,9/13/2022,Broncos,W 17 - 16,23,28,195,7,2,0,2,18,119.5,6,14,2.3,0,1,0,Geno Smith,Geno-Smith,2022,QB,Seattle Seahawks,Home
+18,1/8/2023,Vikings,L 13 - 29,,,,,,,,,,,,,,,,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Home
+17,1/1/2023,@Lions,L 10 - 41,7,21,75,3.6,1,1,7,45,40.8,10,132,13.2,0,1,1,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Away
+16,12/24/2022,Bills,L 13 - 35,15,23,119,5.2,1,0,2,15,92.5,7,11,1.6,0,0,0,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Home
+15,12/18/2022,Eagles,L 20 - 25,14,21,152,7.2,2,0,6,61,119.5,15,95,6.3,0,2,0,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Home
+13,12/4/2022,Packers,L 19 - 28,20,25,254,10.2,0,2,0,0,75.7,6,71,11.8,1,,,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Home
+12,11/27/2022,@Jets,L 10 - 31,,,,,,,,,,,,,,,,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Away
+11,11/20/2022,@Falcons,L 24 - 27,14,21,153,7.3,1,1,4,25,84,18,85,4.7,1,1,0,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Away
+10,11/13/2022,Lions,L 30 - 31,12,20,167,8.4,2,1,3,17,99.4,13,147,11.3,2,1,0,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Home
+9,11/6/2022,Dolphins,L 32 - 35,17,28,123,4.4,3,0,2,7,106.7,15,178,11.9,1,,,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Home
+8,10/30/2022,@Cowboys,L 29 - 49,17,23,151,6.6,2,0,4,25,120,8,60,7.5,1,,,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Away
+7,10/25/2022,@Patriots,W 33 - 14,13,21,179,8.5,1,1,4,32,85.2,14,82,5.9,1,4,0,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Away
+6,10/14/2022,Commanders,L 7 - 12,14,27,190,7,1,1,5,36,71.5,12,88,7.3,0,1,0,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Home
+5,10/9/2022,@Vikings,L 22 - 29,15,21,208,9.9,1,0,2,15,118.8,8,47,5.9,0,2,0,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Away
+4,10/2/2022,@Giants,L 12 - 20,11,22,174,7.9,0,0,6,19,76.7,7,52,7.4,0,1,1,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Away
+3,9/25/2022,Texans,W 23 - 20,8,17,106,6.2,0,2,5,24,27.7,8,47,5.9,0,2,0,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Home
+2,9/19/2022,@Packers,L 10 - 27,7,11,70,6.4,0,1,3,22,43.8,8,20,2.5,1,1,0,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Away
+1,9/11/2022,49ers,W 19 - 10,8,17,121,7.1,2,1,2,16,85.7,11,28,2.6,0,,,Justin Fields,Justin-Fields,2022,QB,Chicago Bears,Home
+18,1/8/2023,@Eagles,L 16 - 22,,,,,,,,,,,,,,,,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Away
+17,1/1/2023,Colts,W 38 - 10,19,24,177,7.4,2,0,0,0,125.2,11,91,8.3,2,,,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Home
+16,12/24/2022,@Vikings,L 24 - 27,30,42,334,8,1,1,3,15,92.8,4,34,8.5,0,1,0,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Away
+15,12/19/2022,@Commanders,W 20 - 12,21,32,160,5,0,0,0,0,77.6,10,35,3.5,0,,,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Away
+14,12/11/2022,Eagles,L 22 - 48,18,27,169,6.3,1,0,4,17,96.1,4,26,6.5,1,,,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Home
+13,12/4/2022,Commanders,T 20 - 20,25,31,200,6.4,1,0,4,18,104.3,12,71,5.9,0,1,1,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Home
+12,11/24/2022,@Cowboys,L 20 - 28,21,35,228,6.5,1,0,3,18,88.8,3,14,4.7,0,1,0,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Away
+11,11/20/2022,Lions,L 18 - 31,27,44,341,7.8,1,2,2,17,74.2,7,50,7.1,1,,,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Home
+10,11/13/2022,Texans,W 24 - 16,13,17,197,11.6,2,0,3,21,153.3,5,24,4.8,0,,,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Home
+8,10/30/2022,@Seahawks,L 13 - 27,17,31,176,5.7,0,0,5,29,71.4,6,20,3.3,0,1,0,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Away
+7,10/23/2022,@Jaguars,W 23 - 17,19,30,202,6.7,1,0,1,2,94,11,107,9.7,1,,,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Away
+6,10/16/2022,Ravens,W 24 - 20,19,27,173,6.4,2,0,4,18,112.1,6,6,1,0,1,1,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Home
+5,10/9/2022,@Packers,W 27 - 22,21,27,217,8,0,0,1,4,100.2,10,37,3.7,0,,,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Away
+4,10/2/2022,Bears,W 20 - 12,8,13,71,5.5,0,0,1,11,76.1,6,68,11.3,2,,,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Home
+3,9/27/2022,Cowboys,L 16 - 23,20,37,196,5.3,0,1,5,27,57.9,9,79,8.8,0,,,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Home
+2,9/18/2022,Panthers,W 19 - 16,22,34,176,5.2,1,0,3,14,87.4,10,21,2.1,0,,,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Home
+1,9/11/2022,@Titans,W 21 - 20,17,21,188,9,2,1,5,32,115.9,6,25,4.2,0,1,1,Daniel Jones,Daniel-Jones,2022,QB,New York Giants,Away
+18,1/8/2023,Titans,W 20 - 16,20,32,212,6.6,1,0,1,9,92.2,4,-3,-0.8,0,1,1,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Home
+17,1/1/2023,@Texans,W 31 - 3,17,21,152,7.2,0,1,1,8,77,2,4,2,0,1,0,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Away
+16,12/23/2022,@Jets,W 19 - 3,20,31,229,7.4,0,0,1,11,86.6,7,51,7.3,1,1,1,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Away
+15,12/18/2022,Cowboys,W 40 - 34,27,42,318,7.6,4,1,1,7,109,3,21,7,0,1,1,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Home
+14,12/11/2022,@Titans,W 36 - 22,30,42,368,8.8,3,0,0,0,121.9,3,7,2.3,1,,,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Away
+13,12/4/2022,@Lions,L 14 - 40,17,31,179,5.8,1,0,2,14,82.6,4,32,8,0,,,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Away
+12,11/27/2022,Ravens,W 28 - 27,29,37,321,8.7,3,0,4,27,129.8,2,1,0.5,0,2,1,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Home
+10,11/13/2022,@Chiefs,L 17 - 27,29,40,259,6.5,2,0,5,19,106.2,4,26,6.5,0,,,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Away
+9,11/6/2022,Raiders,W 27 - 20,25,31,235,7.6,1,0,0,0,109,6,53,8.8,0,1,1,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Home
+8,10/30/2022,Broncos,L 17 - 21,18,31,133,4.3,1,2,2,19,52.2,3,15,5,0,1,0,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Home
+7,10/23/2022,Giants,L 17 - 23,22,43,310,7.2,0,0,0,0,74.8,4,3,0.8,1,,,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Home
+6,10/16/2022,@Colts,L 27 - 34,20,22,165,7.5,1,0,4,29,113.1,6,23,3.8,2,,,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Away
+5,10/9/2022,Texans,L 6 - 13,25,47,286,6.1,0,2,0,0,54,4,29,7.2,0,,,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Home
+4,10/2/2022,@Eagles,L 21 - 29,11,23,174,7.6,2,1,4,26,84.3,2,7,3.5,0,4,4,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Away
+3,9/25/2022,@Chargers,W 38 - 10,28,39,262,6.7,3,0,0,0,115.5,3,7,2.3,0,,,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Away
+2,9/18/2022,Colts,W 24 - 0,25,30,235,7.8,2,0,0,0,121.5,3,11,3.7,0,,,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Home
+1,9/11/2022,@Commanders,L 22 - 28,24,42,275,6.6,1,1,2,15,75,2,4,2,0,,,Trevor Lawrence,Trevor-Lawrence,2022,QB,Jacksonville Jaguars,Away
+18,1/8/2023,@Bears,W 29 - 13,17,20,225,11.2,1,0,0,0,130.2,,,,,,,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Away
+17,1/1/2023,@Packers,L 17 - 41,18,31,205,6.6,1,3,2,18,49.2,3,37,12.3,0,2,1,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Away
+16,12/24/2022,Giants,W 27 - 24,34,48,299,6.2,3,0,4,29,107.9,1,2,2,0,,,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Home
+15,12/17/2022,Colts,W 39 - 36,34,54,460,8.5,4,2,7,34,99.3,2,0,0,0,,,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Home
+14,12/11/2022,@Lions,L 23 - 34,31,41,425,10.4,2,0,3,26,124.5,,,,,,,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Away
+13,12/4/2022,Jets,W 27 - 22,21,35,173,4.9,1,0,2,14,82.2,3,9,3,0,,,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Home
+12,11/25/2022,Patriots,W 33 - 26,30,37,299,8.1,3,1,1,9,116.1,1,-1,-1,0,,,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Home
+11,11/20/2022,Cowboys,L 3 - 40,12,23,105,4.6,0,0,7,49,64.6,,,,,1,1,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Home
+10,11/13/2022,@Bills,W 33 - 30,30,50,357,7.1,1,2,4,23,71.8,6,12,2,0,2,0,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Away
+9,11/6/2022,@Commanders,W 20 - 17,22,40,265,6.6,2,1,2,17,81.8,2,-2,-1,0,,,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Away
+8,10/30/2022,Cardinals,W 34 - 26,24,36,232,6.4,2,0,3,24,103,4,22,5.5,1,1,1,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Home
+6,10/16/2022,@Dolphins,W 24 - 16,20,30,175,5.8,2,0,3,19,104.2,2,-5,-2.5,0,,,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Away
+5,10/9/2022,Bears,W 29 - 22,32,41,296,7.2,1,1,1,7,94.7,4,4,1,1,,,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Home
+4,10/2/2022,@Saints,W 28 - 25,25,38,273,7.2,1,1,3,23,84.6,,,,,,,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Away
+3,9/25/2022,Lions,W 28 - 24,24,41,260,6.3,2,0,1,10,93.6,1,-1,-1,0,,,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Home
+2,9/20/2022,@Eagles,L 7 - 24,27,46,221,4.8,1,3,2,19,51.1,2,20,10,0,1,0,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Away
+1,9/11/2022,Packers,W 23 - 7,23,32,277,8.7,2,0,1,8,118.9,,,,,,,Kirk Cousins,Kirk-Cousins,2022,QB,Minnesota Vikings,Home
+18,1/9/2023,@Packers,W 20 - 16,23,34,224,6.6,0,0,1,5,85.9,2,5,2.5,0,1,0,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Away
+17,1/1/2023,Bears,W 41 - 10,21,29,255,8.8,3,0,1,9,133.6,1,2,2,0,,,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Home
+16,12/24/2022,@Panthers,L 23 - 37,25,42,355,8.4,3,0,2,19,110.7,3,15,5,0,1,1,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Away
+15,12/18/2022,@Jets,W 20 - 17,23,38,252,6.6,1,0,0,0,88.9,,,,,,,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Away
+14,12/11/2022,Vikings,W 34 - 23,27,39,330,8.5,3,0,0,0,120.7,2,9,4.5,0,,,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Home
+13,12/4/2022,Jaguars,W 40 - 14,31,41,340,8.3,2,0,2,3,115.9,,,,,,,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Home
+12,11/24/2022,Bills,L 25 - 28,23,37,240,6.5,2,0,2,10,98.9,,,,,,,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Home
+11,11/20/2022,@Giants,W 31 - 18,17,26,165,6.4,0,0,0,0,83,4,-1,-0.2,0,,,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Away
+10,11/13/2022,@Bears,W 31 - 30,19,26,236,9.1,1,0,2,8,113.6,4,14,3.5,0,1,0,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Away
+9,11/6/2022,Packers,W 15 - 9,14,26,137,5.3,2,1,0,0,78.5,1,-1,-1,0,,,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Home
+8,10/30/2022,Dolphins,L 27 - 31,27,37,321,8.7,1,0,1,10,108,1,3,3,0,,,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Home
+7,10/23/2022,@Cowboys,L 6 - 24,21,26,228,8.8,0,2,5,33,71.2,1,4,4,0,2,2,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Away
+5,10/9/2022,@Patriots,L 0 - 29,19,35,229,6.5,0,1,2,18,62.7,3,7,2.3,0,1,1,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Away
+4,10/2/2022,Seahawks,L 45 - 48,26,39,378,9.7,4,1,1,9,121.5,1,1,1,0,,,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Home
+3,9/25/2022,@Vikings,L 24 - 28,25,41,277,6.8,1,1,0,0,79,2,8,4,0,,,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Away
+2,9/18/2022,Commanders,W 36 - 27,20,34,256,7.5,4,0,3,22,121.7,2,-2,-1,0,,,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Home
+1,9/11/2022,Eagles,L 35 - 38,21,37,215,5.8,2,1,1,10,80.4,2,9,4.5,0,1,0,Jared Goff,Jared-Goff,2022,QB,Detroit Lions,Home
+18,1/8/2023,@Broncos,L 28 - 31,25,37,273,7.4,2,0,1,5,107.2,2,-1,-0.5,0,1,0,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Away
+17,1/1/2023,Rams,W 31 - 10,21,28,212,7.6,2,0,0,0,119.9,1,2,2,0,,,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Home
+16,12/27/2022,@Colts,W 20 - 3,24,31,235,7.6,0,1,4,22,84.7,5,1,0.2,0,1,1,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Away
+15,12/18/2022,Titans,W 17 - 14,28,42,313,7.4,0,2,3,22,68.8,1,2,2,0,,,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Home
+14,12/12/2022,Dolphins,W 23 - 17,39,51,367,7.2,1,0,4,17,102.3,4,8,2,0,1,0,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Home
+13,12/4/2022,@Raiders,L 20 - 27,28,47,335,7.1,1,0,5,21,88.5,5,7,1.4,0,2,0,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Away
+12,11/27/2022,@Cardinals,W 25 - 24,35,47,274,5.8,3,0,4,28,109.7,4,38,9.5,0,,,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Away
+11,11/21/2022,Chiefs,L 27 - 30,23,30,280,9.3,2,1,5,30,113.2,5,17,3.4,0,,,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Home
+10,11/14/2022,@49ers,L 16 - 22,21,35,196,5.6,1,1,2,8,73,5,22,4.4,0,1,0,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Away
+9,11/6/2022,@Falcons,W 20 - 17,30,43,245,5.7,1,1,0,0,82,1,3,3,0,,,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Away
+7,10/23/2022,Seahawks,L 23 - 37,33,51,293,5.8,2,1,3,17,84.8,3,22,7.3,0,1,1,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Home
+6,10/18/2022,Broncos,W 19 - 16,37,57,238,4.2,0,1,2,14,66.3,2,9,4.5,0,,,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Home
+5,10/9/2022,@Browns,W 30 - 28,22,34,228,6.7,1,0,1,1,93.8,5,13,2.6,0,,,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Away
+4,10/2/2022,@Texans,W 34 - 24,27,39,340,8.7,2,0,1,2,113.2,4,-5,-1.2,0,,,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Away
+3,9/25/2022,Jaguars,L 10 - 38,25,45,297,6.6,1,1,1,11,74,1,7,7,0,1,1,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Home
+2,9/16/2022,@Chiefs,L 24 - 27,33,48,334,7,3,1,2,8,100.5,2,1,0.5,0,,,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Away
+1,9/11/2022,Raiders,W 24 - 19,26,34,279,8.2,3,0,0,0,129.4,4,1,0.2,0,,,Justin Herbert,Justin-Herbert,2022,QB,Los Angeles Chargers,Home
+18,1/8/2023,@Falcons,L 17 - 30,13,17,84,4.9,1,0,0,0,106,,,,,,,Tom Brady,Tom-Brady,2022,QB,None,Away
+17,1/1/2023,Panthers,W 30 - 24,34,45,432,9.6,3,0,3,21,127.3,3,4,1.3,1,,,Tom Brady,Tom-Brady,2022,QB,None,Home
+16,12/26/2022,@Cardinals,W 19 - 16,32,48,281,5.8,1,2,0,0,71.6,2,1,0.5,0,,,Tom Brady,Tom-Brady,2022,QB,None,Away
+15,12/18/2022,Bengals,L 23 - 34,30,44,312,7.1,3,2,1,8,92.2,2,1,0.5,0,2,2,Tom Brady,Tom-Brady,2022,QB,None,Home
+14,12/11/2022,@49ers,L 7 - 35,34,55,253,4.6,1,2,0,0,63.7,2,0,0,0,,,Tom Brady,Tom-Brady,2022,QB,None,Away
+13,12/6/2022,Saints,W 17 - 16,36,54,281,5.2,2,1,1,7,84,1,-1,-1,0,,,Tom Brady,Tom-Brady,2022,QB,None,Home
+12,11/27/2022,@Browns,L 17 - 23,29,43,246,5.7,2,0,3,17,97.6,1,2,2,0,,,Tom Brady,Tom-Brady,2022,QB,None,Away
+10,11/13/2022,Seahawks,W 21 - 16,22,29,258,8.9,2,1,0,0,111,6,-3,-0.5,0,,,Tom Brady,Tom-Brady,2022,QB,None,Home
+9,11/6/2022,Rams,W 16 - 13,36,58,280,4.8,1,0,1,8,79.7,,,,,,,Tom Brady,Tom-Brady,2022,QB,None,Home
+8,10/28/2022,Ravens,L 22 - 27,26,44,325,7.4,1,0,3,20,89.7,1,1,1,0,,,Tom Brady,Tom-Brady,2022,QB,None,Home
+7,10/23/2022,@Panthers,L 3 - 21,32,49,290,5.9,0,0,1,14,81.2,1,1,1,0,0,0,Tom Brady,Tom-Brady,2022,QB,None,Away
+6,10/16/2022,@Steelers,L 18 - 20,25,40,243,6.1,1,0,2,14,87.8,1,0,0,0,1,0,Tom Brady,Tom-Brady,2022,QB,None,Away
+5,10/9/2022,Falcons,W 21 - 15,35,52,351,6.8,1,0,0,0,92.7,3,-3,-1,0,,,Tom Brady,Tom-Brady,2022,QB,None,Home
+4,10/3/2022,Chiefs,L 31 - 41,39,52,385,7.4,3,0,1,12,114.7,,,,,1,1,Tom Brady,Tom-Brady,2022,QB,None,Home
+3,9/25/2022,Packers,L 12 - 14,31,42,271,6.4,1,0,3,20,98.4,1,-1,-1,0,,,Tom Brady,Tom-Brady,2022,QB,None,Home
+2,9/18/2022,@Saints,W 20 - 10,18,34,190,5.6,1,0,1,2,79.3,3,-2,-0.7,0,1,1,Tom Brady,Tom-Brady,2022,QB,None,Away
+1,9/12/2022,@Cowboys,W 19 - 3,18,27,212,7.8,1,1,2,17,87.3,2,-1,-0.5,0,,,Tom Brady,Tom-Brady,2022,QB,None,Away
+18,1/8/2023,@Bengals,L 16 - 27,,,,,,,,,,,,,,,,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Away
+17,1/2/2023,Steelers,L 13 - 16,,,,,,,,,,,,,,,,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Home
+16,12/24/2022,Falcons,W 17 - 9,,,,,,,,,,,,,,,,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Home
+15,12/17/2022,@Browns,L 3 - 13,,,,,,,,,,,,,,,,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Away
+14,12/11/2022,@Steelers,W 16 - 14,,,,,,,,,,,,,,,,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Away
+13,12/4/2022,Broncos,W 10 - 9,3,4,11,2.8,0,0,2,10,77.1,1,9,9,0,,,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Home
+12,11/27/2022,@Jaguars,L 27 - 28,16,32,254,7.9,1,0,1,1,87.2,14,89,6.4,0,1,1,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Away
+11,11/20/2022,Panthers,W 13 - 3,24,33,209,6.3,0,1,3,16,76.4,11,31,2.8,1,,,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Home
+9,11/8/2022,@Saints,W 27 - 13,12,22,133,6,1,0,3,2,87.9,11,82,7.4,0,1,0,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Away
+8,10/28/2022,@Buccaneers,W 27 - 22,27,38,238,6.3,2,0,3,16,104.9,9,43,4.8,0,,,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Away
+7,10/23/2022,Browns,W 23 - 20,9,16,120,7.5,0,0,3,26,80.2,10,59,5.9,0,,,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Home
+6,10/16/2022,@Giants,L 20 - 24,17,32,210,6.6,1,1,2,15,71.1,7,77,11,0,2,1,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Away
+5,10/10/2022,Bengals,W 19 - 17,19,32,174,5.4,1,1,1,4,71.6,12,58,4.8,0,,,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Home
+4,10/2/2022,Bills,L 20 - 23,20,29,144,5,1,2,2,10,63,11,73,6.6,0,,,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Home
+3,9/25/2022,@Patriots,W 37 - 26,18,29,218,7.5,4,1,4,12,110.3,11,107,9.7,1,,,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Away
+2,9/18/2022,Dolphins,L 38 - 42,21,29,318,11,3,0,0,0,142.6,9,119,13.2,1,1,0,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Home
+1,9/11/2022,@Jets,W 24 - 9,17,30,213,7.1,3,1,2,2,98.3,6,17,2.8,0,,,Lamar Jackson,Lamar-Jackson,2022,QB,Baltimore Ravens,Away
+18,1/8/2023,Chargers,W 31 - 28,13,24,283,11.8,3,1,2,17,118.6,8,18,2.2,0,,,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Home
+17,1/1/2023,@Chiefs,L 24 - 27,26,38,222,5.8,1,1,4,32,81.2,4,27,6.8,2,1,1,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Away
+16,12/25/2022,@Rams,L 14 - 51,15,27,214,7.9,1,3,6,40,54.2,2,17,8.5,0,,,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Away
+15,12/18/2022,Cardinals,W 24 - 15,,,,,,,,,,,,,,,,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Home
+14,12/11/2022,Chiefs,L 28 - 34,23,36,247,6.9,3,1,6,49,100.1,4,57,14.2,0,,,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Home
+13,12/4/2022,@Ravens,L 9 - 10,17,22,189,8.6,0,0,2,5,102.3,2,21,10.5,0,,,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Away
+12,11/27/2022,@Panthers,L 10 - 23,19,35,142,4.1,1,0,3,17,73.8,2,8,4,0,1,1,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Away
+11,11/20/2022,Raiders,L 16 - 22,24,31,247,8,0,0,3,21,99.8,1,8,8,0,,,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Home
+10,11/13/2022,@Titans,L 10 - 17,21,42,286,6.8,1,1,6,38,70.1,7,8,1.1,0,3,0,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Away
+8,10/30/2022,@Jaguars,W 21 - 17,18,30,252,8.4,1,1,3,22,84.3,4,17,4.2,0,,,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Away
+7,10/23/2022,Jets,L 9 - 16,,,,,,,,,,,,,,,,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Home
+6,10/18/2022,@Chargers,L 16 - 19,15,28,188,6.7,1,0,4,28,86.6,4,23,5.8,0,,,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Away
+5,10/7/2022,Colts,L 9 - 12,21,39,274,7,0,2,4,24,54.9,4,22,5.5,0,1,0,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Home
+4,10/2/2022,@Raiders,L 23 - 32,17,25,237,9.5,2,0,3,23,124.9,4,29,7.2,1,,,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Away
+3,9/26/2022,49ers,W 11 - 10,20,33,184,5.6,0,0,4,24,75.8,6,17,2.8,0,0,0,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Home
+2,9/18/2022,Texans,W 16 - 9,14,31,219,7.1,1,1,3,18,66.5,2,3,1.5,0,,,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Home
+1,9/13/2022,@Seahawks,L 16 - 17,29,42,340,8.1,1,0,2,10,101.3,1,2,2,0,,,Russell Wilson,Russell-Wilson,2022,QB,Denver Broncos,Away
+18,1/9/2023,Lions,L 16 - 20,17,27,205,7.6,1,1,2,17,83.1,3,10,3.3,0,,,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Home
+17,1/1/2023,Vikings,W 41 - 17,15,24,159,6.6,1,0,1,16,95.7,1,2,2,1,,,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Home
+16,12/25/2022,@Dolphins,W 26 - 20,24,38,238,6.3,1,1,2,16,78.6,7,18,2.6,0,1,0,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Away
+15,12/20/2022,Rams,W 24 - 12,22,30,229,7.6,1,1,3,22,92.2,3,-3,-1,0,,,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Home
+13,12/4/2022,@Bears,W 28 - 19,18,31,182,5.9,1,0,0,0,85.7,3,4,1.3,0,,,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Away
+12,11/28/2022,@Eagles,L 33 - 40,11,16,140,8.8,2,2,3,17,95.8,1,-1,-1,0,,,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Away
+11,11/18/2022,Titans,L 17 - 27,24,39,227,5.8,2,0,1,12,94.7,,,,,,,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Home
+10,11/13/2022,Cowboys,W 31 - 28,14,20,224,11.2,3,0,2,16,146.7,2,4,2,0,1,1,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Home
+9,11/6/2022,@Lions,L 9 - 15,23,43,291,6.8,1,3,1,8,53.5,4,40,10,0,,,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Away
+8,10/31/2022,@Bills,L 17 - 27,19,30,203,6.8,2,1,2,13,91.4,1,11,11,0,,,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Away
+7,10/23/2022,@Commanders,L 21 - 23,23,35,194,5.5,2,0,0,0,99,,,,,1,0,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Away
+6,10/16/2022,Jets,L 10 - 27,26,41,246,6,1,0,4,36,88.1,1,0,0,0,2,1,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Home
+5,10/9/2022,Giants,L 22 - 27,25,39,222,5.7,2,0,2,15,96.3,,,,,1,0,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Home
+4,10/2/2022,Patriots,W 27 - 24,21,35,251,7.2,2,1,1,7,89.1,1,1,1,0,,,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Home
+3,9/25/2022,@Buccaneers,W 14 - 12,27,35,255,7.3,2,1,1,7,103.9,1,-1,-1,0,,,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Away
+2,9/19/2022,Bears,W 27 - 10,19,25,234,9.4,2,0,3,23,131.1,5,10,2,0,1,1,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Home
+1,9/11/2022,@Vikings,L 7 - 23,22,34,195,5.7,0,1,4,33,67.6,1,-1,-1,0,1,1,Aaron Rodgers,Aaron-Rodgers,2022,QB,New York Jets,Away
+18,1/8/2023,Jets,W 11 - 6,,,,,,,,,,,,,,,,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Home
+17,1/1/2023,@Patriots,L 21 - 23,,,,,,,,,,,,,,,,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Away
+16,12/25/2022,Packers,L 20 - 26,16,25,310,12.4,1,3,2,16,80.8,1,0,0,0,2,0,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Home
+15,12/18/2022,@Bills,L 29 - 32,17,30,234,7.8,2,0,2,17,104,1,7,7,0,1,0,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Away
+14,12/12/2022,@Chargers,L 17 - 23,10,28,145,5.2,1,0,2,18,65.3,3,28,9.3,0,,,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Away
+13,12/4/2022,@49ers,L 17 - 33,18,33,295,8.9,2,2,3,20,79.7,,,,,1,1,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Away
+12,11/27/2022,Texans,W 30 - 15,22,36,299,8.3,1,0,4,26,96.9,,,,,,,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Home
+10,11/13/2022,Browns,W 39 - 17,25,32,285,8.9,3,0,0,0,135,1,0,0,0,0,0,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Home
+9,11/6/2022,@Bears,W 35 - 32,21,30,302,10.1,3,0,0,0,135.7,5,0,0,0,1,0,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Away
+8,10/30/2022,@Lions,W 31 - 27,29,36,382,10.6,3,0,2,13,138.7,5,19,3.8,0,,,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Away
+7,10/24/2022,Steelers,W 16 - 10,21,35,261,7.5,1,0,0,0,92.7,4,15,3.8,0,,,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Home
+6,10/16/2022,Vikings,L 16 - 24,,,,,,,,,,,,,,,,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Home
+5,10/9/2022,@Jets,L 17 - 40,,,,,,,,,,,,,,,,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Away
+4,9/30/2022,@Bengals,L 15 - 27,8,14,110,7.9,0,1,1,10,52.7,,,,,,,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Away
+3,9/25/2022,Bills,W 21 - 19,13,18,186,10.3,1,0,1,7,123.8,1,0,0,0,,,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Home
+2,9/18/2022,@Ravens,W 42 - 38,36,50,469,9.4,6,2,1,8,124.1,1,1,1,0,,,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Away
+1,9/11/2022,Patriots,W 20 - 7,23,33,270,8.2,1,0,3,28,104.4,2,0,0,0,1,0,Tua Tagovailoa,Tua-Tagovailoa,2022,QB,Miami Dolphins,Home
+14,12/13/2022,Patriots,L 13 - 27,1,1,9,9,0,0,0,0,104.2,1,3,3,0,,,Kyler Murray,Kyler-Murray,2022,QB,Arizona Cardinals,Home
+12,11/27/2022,Chargers,L 24 - 25,18,29,191,6.6,2,1,1,6,89.9,7,56,8,1,,,Kyler Murray,Kyler-Murray,2022,QB,Arizona Cardinals,Home
+11,11/22/2022,49ers,L 10 - 38,,,,,,,,,,,,,,,,Kyler Murray,Kyler-Murray,2022,QB,Arizona Cardinals,Home
+10,11/13/2022,@Rams,W 27 - 17,,,,,,,,,,,,,,,,Kyler Murray,Kyler-Murray,2022,QB,Arizona Cardinals,Away
+9,11/6/2022,Seahawks,L 21 - 31,25,35,175,5,2,0,5,35,101.5,8,60,7.5,0,2,1,Kyler Murray,Kyler-Murray,2022,QB,Arizona Cardinals,Home
+8,10/30/2022,@Vikings,L 26 - 34,31,44,326,7.4,3,2,4,29,95.4,6,36,6,0,1,0,Kyler Murray,Kyler-Murray,2022,QB,Arizona Cardinals,Away
+7,10/21/2022,Saints,W 42 - 34,20,29,204,7,1,0,2,15,100.4,7,30,4.3,0,1,0,Kyler Murray,Kyler-Murray,2022,QB,Arizona Cardinals,Home
+6,10/16/2022,@Seahawks,L 9 - 19,23,37,222,6,0,1,6,51,67.6,10,100,10,0,2,1,Kyler Murray,Kyler-Murray,2022,QB,Arizona Cardinals,Away
+5,10/9/2022,Eagles,L 17 - 20,28,42,250,6,1,1,1,11,80.5,4,42,10.5,0,,,Kyler Murray,Kyler-Murray,2022,QB,Arizona Cardinals,Home
+4,10/2/2022,@Panthers,W 26 - 16,23,32,207,6.5,2,1,1,1,96.7,12,26,2.2,1,1,0,Kyler Murray,Kyler-Murray,2022,QB,Arizona Cardinals,Away
+3,9/25/2022,Rams,L 12 - 20,37,58,314,5.4,0,0,2,19,77.8,2,8,4,0,1,0,Kyler Murray,Kyler-Murray,2022,QB,Arizona Cardinals,Home
+2,9/18/2022,@Raiders,W 29 - 23,31,49,277,5.6,1,1,1,7,76.7,5,28,5.6,1,,,Kyler Murray,Kyler-Murray,2022,QB,Arizona Cardinals,Away
+1,9/11/2022,Chiefs,L 21 - 44,22,34,193,5.7,2,0,2,18,99.3,5,29,5.8,0,0,0,Kyler Murray,Kyler-Murray,2022,QB,Arizona Cardinals,Home
+18,1/7/2023,Chiefs,L 13 - 31,,,,,,,,,,,,,,,,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Home
+17,1/1/2023,49ers,L 34 - 37,,,,,,,,,,,,,,,,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Home
+16,12/25/2022,@Steelers,L 10 - 13,16,30,174,5.8,1,3,3,31,42.2,3,14,4.7,0,,,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Away
+15,12/18/2022,Patriots,W 30 - 24,20,38,231,6.1,3,1,3,20,86.6,,,,,1,0,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Home
+14,12/9/2022,@Rams,L 16 - 17,11,20,137,6.8,0,2,0,0,36.9,4,11,2.8,0,,,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Away
+13,12/4/2022,Chargers,W 27 - 20,16,30,250,8.3,2,1,0,0,89.6,,,,,,,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Home
+12,11/27/2022,@Seahawks,W 40 - 34,25,36,295,8.2,3,2,1,2,98.7,2,10,5,0,,,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Away
+11,11/20/2022,@Broncos,W 22 - 16,23,37,307,8.3,2,0,1,9,106.5,,,,,,,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Away
+10,11/13/2022,Colts,L 20 - 25,24,38,248,6.5,2,0,2,16,99.4,,,,,,,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Home
+9,11/6/2022,@Jaguars,L 20 - 27,21,36,259,7.2,2,0,2,11,99.2,,,,,,,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Away
+8,10/30/2022,@Saints,L 0 - 24,15,26,101,3.9,0,1,3,20,50.3,1,-1,-1,0,,,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Away
+7,10/23/2022,Texans,W 38 - 20,21,27,241,8.9,1,0,1,5,116.2,3,-1,-0.3,0,1,0,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Home
+5,10/11/2022,@Chiefs,L 29 - 30,19,30,241,8,2,0,2,18,110.6,1,3,3,0,,,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Away
+4,10/2/2022,Broncos,W 32 - 23,21,34,188,5.5,0,0,2,15,76.6,7,40,5.7,0,,,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Home
+3,9/25/2022,@Titans,L 22 - 24,26,44,303,6.9,2,1,1,7,85.7,2,17,8.5,0,,,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Away
+2,9/18/2022,Cardinals,L 23 - 29,25,39,252,6.5,2,0,1,8,99.5,1,9,9,0,,,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Home
+1,9/11/2022,@Chargers,L 19 - 24,22,37,295,8,2,3,5,29,69.1,,,,,2,0,Derek Carr,Derek-Carr,2022,QB,New Orleans Saints,Away
+13,12/4/2022,Steelers,L 16 - 19,13,24,167,7,1,1,1,7,72.7,3,17,5.7,0,,,Marcus Mariota,Marcus-Mariota,2022,QB,Philadelphia Eagles,Home
+12,11/27/2022,@Commanders,L 13 - 19,15,25,174,7,1,1,1,9,77.8,6,49,8.2,0,,,Marcus Mariota,Marcus-Mariota,2022,QB,Philadelphia Eagles,Away
+11,11/20/2022,Bears,W 27 - 24,13,20,131,6.6,1,0,0,0,100.2,13,25,1.9,1,,,Marcus Mariota,Marcus-Mariota,2022,QB,Philadelphia Eagles,Home
+10,11/11/2022,@Panthers,L 15 - 25,19,30,186,6.2,2,1,5,33,89,3,43,14.3,0,,,Marcus Mariota,Marcus-Mariota,2022,QB,Philadelphia Eagles,Away
+9,11/6/2022,Chargers,L 17 - 20,12,23,129,5.6,0,0,2,15,68.9,5,24,4.8,0,,,Marcus Mariota,Marcus-Mariota,2022,QB,Philadelphia Eagles,Home
+8,10/30/2022,Panthers,W 37 - 34,20,28,253,9,3,2,2,14,105.2,6,43,7.2,0,,,Marcus Mariota,Marcus-Mariota,2022,QB,Philadelphia Eagles,Home
+7,10/23/2022,@Bengals,L 17 - 35,8,13,124,9.5,1,0,3,17,118.8,6,31,5.2,0,1,0,Marcus Mariota,Marcus-Mariota,2022,QB,Philadelphia Eagles,Away
+6,10/16/2022,49ers,W 28 - 14,13,14,129,9.2,2,0,2,8,144.6,6,50,8.3,1,,,Marcus Mariota,Marcus-Mariota,2022,QB,Philadelphia Eagles,Home
+5,10/9/2022,@Buccaneers,L 15 - 21,14,25,147,5.9,1,0,5,37,86.6,7,61,8.7,0,1,0,Marcus Mariota,Marcus-Mariota,2022,QB,Philadelphia Eagles,Away
+4,10/2/2022,Browns,W 23 - 20,7,19,139,7.3,0,1,1,8,41.3,5,3,0.6,0,1,0,Marcus Mariota,Marcus-Mariota,2022,QB,Philadelphia Eagles,Home
+3,9/25/2022,@Seahawks,W 27 - 23,13,20,229,11.4,1,1,3,22,99.8,7,4,0.6,1,2,1,Marcus Mariota,Marcus-Mariota,2022,QB,Philadelphia Eagles,Away
+2,9/18/2022,@Rams,L 27 - 31,17,26,196,7.5,2,2,3,25,81.6,6,16,2.7,0,1,1,Marcus Mariota,Marcus-Mariota,2022,QB,Philadelphia Eagles,Away
+1,9/11/2022,Saints,L 26 - 27,20,33,215,6.5,0,0,0,0,79.7,12,72,6,1,2,1,Marcus Mariota,Marcus-Mariota,2022,QB,Philadelphia Eagles,Home
+18,1/8/2023,@Commanders,L 6 - 26,14,37,128,3.5,1,1,1,10,45.8,6,16,2.7,0,,,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Away
+17,12/30/2022,@Titans,W 27 - 13,29,41,282,6.9,2,2,1,8,85.6,3,11,3.7,0,1,1,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Away
+16,12/24/2022,Eagles,W 40 - 34,27,35,347,9.9,3,1,6,43,124.4,6,41,6.8,0,1,0,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Home
+15,12/18/2022,@Jaguars,L 34 - 40,23,30,256,8.5,3,2,3,13,107.1,5,20,4,0,,,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Away
+14,12/11/2022,Texans,W 27 - 23,24,39,284,7.3,1,2,1,7,70.9,6,23,3.8,0,1,0,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Home
+13,12/5/2022,Colts,W 54 - 19,20,30,170,5.7,3,1,1,5,100.7,,,,,,,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Home
+12,11/24/2022,Giants,W 28 - 20,21,30,261,8.7,2,2,0,0,91.1,2,4,2,0,1,0,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Home
+11,11/20/2022,@Vikings,W 40 - 3,22,25,276,11,2,0,0,0,139.3,3,16,5.3,0,,,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Away
+10,11/13/2022,@Packers,L 28 - 31,27,46,265,5.8,3,2,2,3,78.6,4,6,1.5,0,,,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Away
+8,10/30/2022,Bears,W 49 - 29,21,27,250,9.3,2,1,1,8,114.5,5,34,6.8,1,,,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Home
+7,10/23/2022,Lions,W 24 - 6,19,25,207,8.3,1,0,2,16,113.2,3,0,0,0,,,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Home
+6,10/17/2022,@Eagles,L 17 - 26,,,,,,,,,,,,,,,,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Away
+5,10/9/2022,@Rams,W 22 - 10,,,,,,,,,,,,,,,,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Away
+4,10/2/2022,Commanders,W 25 - 10,,,,,,,,,,,,,,,,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Home
+3,9/27/2022,@Giants,W 23 - 16,,,,,,,,,,,,,,,,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Away
+2,9/18/2022,Bengals,W 20 - 17,,,,,,,,,,,,,,,,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Home
+1,9/12/2022,Buccaneers,L 3 - 19,14,29,134,4.6,0,1,2,13,47.2,2,11,5.5,0,,,Dak Prescott,Dak-Prescott,2022,QB,Dallas Cowboys,Home
+18,1/8/2023,@Colts,W 32 - 31,22,38,298,7.8,3,2,1,10,87.4,1,6,6,0,,,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Away
+17,1/1/2023,Jaguars,L 3 - 31,22,40,202,5,0,0,1,9,69,4,33,8.2,0,1,1,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Home
+16,12/24/2022,@Titans,W 19 - 14,17,28,178,6.4,1,1,1,3,76.2,4,8,2,0,2,0,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Away
+15,12/18/2022,Chiefs,L 24 - 30,12,24,121,5,2,0,0,0,92.5,5,21,4.2,1,1,1,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Home
+14,12/11/2022,@Cowboys,L 23 - 27,16,21,175,8.3,0,1,0,0,80.5,1,2,2,0,,,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Away
+13,12/4/2022,Browns,L 14 - 27,,,,,,,,,,,,,,,,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Home
+12,11/27/2022,@Dolphins,L 15 - 30,,,,,,,,,,,,,,,,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Away
+11,11/20/2022,Commanders,L 10 - 23,19,33,169,5.1,0,2,5,42,46.2,5,10,2,1,,,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Home
+10,11/13/2022,@Giants,L 16 - 24,22,37,319,8.6,1,1,4,33,85.3,,,,,0,0,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Away
+9,11/4/2022,Eagles,L 17 - 29,13,22,154,7,2,2,3,19,72.9,3,18,6,0,,,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Home
+8,10/30/2022,Titans,L 10 - 17,17,29,152,5.2,1,1,3,34,69.9,3,8,2.7,0,,,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Home
+7,10/23/2022,@Raiders,L 20 - 38,28,41,302,7.4,2,1,1,6,95.8,,,,,,,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Away
+5,10/9/2022,@Jaguars,W 13 - 6,16,24,140,5.8,0,0,1,8,81.9,2,2,1,0,,,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Away
+4,10/2/2022,Chargers,L 24 - 34,26,35,246,7,2,2,4,31,88.5,,,,,1,0,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Home
+3,9/25/2022,@Bears,L 20 - 23,20,32,245,7.7,1,2,1,8,70.4,,,,,,,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Away
+2,9/18/2022,@Broncos,L 9 - 16,19,38,177,4.7,0,0,3,23,63.2,2,1,0.5,0,2,0,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Away
+1,9/11/2022,Colts,T 20 - 20,23,37,240,6.5,2,0,3,18,98.9,2,-1,-0.5,0,1,1,Davis Mills,Davis-Mills,2022,QB,Houston Texans,Home
+18,1/8/2023,@Steelers,L 14 - 28,,,,,,,,,,,,,,,,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Away
+17,1/1/2023,@Commanders,W 24 - 10,,,,,,,,,,1,2,2,0,,,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Away
+16,12/24/2022,Saints,L 10 - 17,,,,,,,,,,,,,,,,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Home
+15,12/17/2022,Ravens,W 13 - 3,,,,,,,,,,1,3,3,0,,,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Home
+14,12/11/2022,@Bengals,L 10 - 23,0,1,0,0,0,0,0,0,39.6,,,,,,,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Away
+13,12/4/2022,@Texans,W 27 - 14,,,,,,,,,,,,,,,,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Away
+12,11/27/2022,Buccaneers,W 23 - 17,23,37,210,5.7,1,1,4,32,75.3,2,27,13.5,0,,,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Home
+11,11/20/2022,@Bills,L 23 - 31,28,41,324,7.9,3,0,1,8,116.3,7,29,4.1,0,1,1,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Away
+10,11/13/2022,@Dolphins,L 17 - 39,22,35,212,6.1,1,0,3,27,89.2,7,40,5.7,0,0,0,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Away
+8,11/1/2022,Bengals,W 32 - 13,17,22,278,12.6,1,0,2,10,133.7,6,12,2,1,1,1,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Home
+7,10/23/2022,@Ravens,L 20 - 23,22,27,258,9.6,0,0,5,35,106.5,3,18,6,0,2,1,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Away
+6,10/16/2022,Patriots,L 15 - 38,21,45,266,5.9,1,2,4,8,54.5,1,0,0,0,2,1,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Home
+5,10/9/2022,Chargers,L 28 - 30,21,34,230,6.8,1,1,0,0,79.3,3,32,10.7,0,,,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Home
+4,10/2/2022,@Falcons,L 20 - 23,21,35,234,6.7,0,1,1,8,68,5,16,3.2,1,,,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Away
+3,9/23/2022,Steelers,W 29 - 17,21,31,220,7.1,2,0,2,15,109.6,3,11,3.7,0,,,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Home
+2,9/18/2022,Jets,L 30 - 31,22,27,229,8.5,1,1,1,8,98.9,6,43,7.2,0,,,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Home
+1,9/11/2022,@Panthers,W 26 - 24,18,34,147,4.3,1,0,1,9,74,4,10,2.5,0,,,Jacoby Brissett,Jacoby-Brissett,2022,QB,Washington Commanders,Away
+18,1/8/2023,Panthers,L 7 - 10,15,25,171,6.8,1,0,1,10,93.9,1,2,2,0,,,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Home
+17,1/1/2023,@Eagles,W 20 - 10,18,22,205,9.3,0,1,6,38,86.6,2,-2,-1,0,,,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Away
+16,12/24/2022,@Browns,W 17 - 10,8,15,92,6.1,0,1,0,0,44.3,1,-1,-1,0,2,0,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Away
+15,12/18/2022,Falcons,W 21 - 18,11,17,151,8.9,2,0,2,17,132.2,2,1,0.5,0,,,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Home
+13,12/6/2022,@Buccaneers,L 16 - 17,20,28,229,8.2,1,0,2,18,107.6,1,1,1,0,,,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Away
+12,11/27/2022,@49ers,L 0 - 13,18,29,204,7,0,0,1,7,83.1,4,21,5.2,0,,,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Away
+11,11/20/2022,Rams,W 27 - 20,21,25,260,10.4,3,0,3,32,149.6,2,-2,-1,0,,,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Home
+10,11/13/2022,@Steelers,L 10 - 20,17,27,174,6.4,1,2,2,17,62.9,3,1,0.3,0,2,0,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Away
+9,11/8/2022,Ravens,L 13 - 27,19,29,210,7.2,1,1,4,28,84,2,5,2.5,0,,,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Home
+8,10/30/2022,Raiders,W 24 - 0,22,30,229,7.6,2,0,0,0,117.2,,,,,,,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Home
+7,10/21/2022,@Cardinals,L 34 - 42,30,47,361,7.7,4,3,0,0,89,4,21,5.2,0,,,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Away
+6,10/16/2022,Bengals,L 26 - 30,17,32,162,5.1,1,0,1,7,77.9,,,,,,,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Home
+5,10/9/2022,Seahawks,W 39 - 32,16,24,187,7.8,1,1,1,6,86.6,7,4,0.6,0,,,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Home
+4,10/2/2022,Vikings,L 25 - 28,20,28,236,8.4,1,0,2,9,108.6,1,3,3,0,1,1,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Home
+3,9/25/2022,@Panthers,L 14 - 22,,,,,,,,,,,,,,,,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Away
+2,9/18/2022,Buccaneers,L 10 - 20,,,,,,,,,,,,,,,,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Home
+1,9/11/2022,@Falcons,W 27 - 26,,,,,,,,,,,,,,,,Andy Dalton,Andy-Dalton,2022,QB,Carolina Panthers,Away
+18,1/8/2023,@Bills,L 23 - 35,26,40,243,6.1,3,3,1,9,75.3,4,5,1.2,0,,,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Away
+17,1/1/2023,Dolphins,W 23 - 21,20,33,204,6.2,2,0,3,31,98.6,3,1,0.3,0,,,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Home
+16,12/24/2022,Bengals,L 18 - 22,21,33,240,7.3,2,0,4,16,105.6,1,-1,-1,0,,,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Home
+15,12/18/2022,@Raiders,L 24 - 30,13,31,112,3.6,0,0,0,0,52.1,4,10,2.5,0,,,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Away
+14,12/13/2022,@Cardinals,W 27 - 13,24,35,235,6.7,0,1,1,10,75.3,5,-1,-0.2,0,1,0,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Away
+13,12/2/2022,Bills,L 10 - 24,22,36,195,5.4,1,0,1,13,84.8,3,7,2.3,0,1,0,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Home
+12,11/25/2022,@Vikings,L 26 - 33,28,39,382,9.8,2,0,3,18,119.8,,,,,1,0,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Away
+11,11/20/2022,Jets,W 10 - 3,23,27,246,9.1,0,0,6,48,104.6,2,3,1.5,0,,,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Home
+9,11/6/2022,Colts,W 26 - 3,20,30,147,4.9,1,0,4,14,89.2,1,-2,-2,0,,,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Home
+8,10/30/2022,@Jets,W 22 - 17,24,35,194,5.5,1,1,6,33,79.9,7,19,2.7,0,1,0,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Away
+7,10/25/2022,Bears,L 14 - 33,3,6,13,2.2,0,1,0,0,16.7,3,24,8,0,,,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Home
+6,10/16/2022,@Browns,W 38 - 15,,,,,,,,,,,,,,,,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Away
+5,10/9/2022,Lions,W 29 - 0,,,,,,,,,,,,,,,,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Home
+4,10/2/2022,@Packers,L 24 - 27,,,,,,,,,,,,,,,,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Away
+3,9/25/2022,Ravens,L 26 - 37,22,32,321,10,0,3,3,19,62.1,5,31,6.2,1,,,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Home
+2,9/18/2022,@Steelers,W 17 - 14,21,35,252,7.2,1,1,0,0,79.7,7,6,0.9,0,,,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Away
+1,9/11/2022,@Dolphins,L 7 - 20,21,30,213,7.1,1,1,2,20,87.2,2,0,0,0,1,1,Mac Jones,Mac-Jones,2022,QB,New England Patriots,Away
+18,1/8/2023,Cardinals,W 38 - 13,,,,,,,,,,,,,,,,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Home
+17,1/1/2023,@Raiders,W 37 - 34,,,,,,,,,,,,,,,,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Away
+16,12/24/2022,Commanders,W 37 - 20,,,,,,,,,,,,,,,,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Home
+15,12/16/2022,@Seahawks,W 21 - 13,,,,,,,,,,,,,,,,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Away
+14,12/11/2022,Buccaneers,W 35 - 7,,,,,,,,,,,,,,,,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Home
+13,12/4/2022,Dolphins,W 33 - 17,2,4,56,14,0,0,1,10,95.8,,,,,,,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Home
+12,11/27/2022,Saints,W 13 - 0,26,37,222,6,1,0,1,1,94.6,4,4,1,0,,,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Home
+11,11/22/2022,@Cardinals,W 38 - 10,20,29,228,7.9,4,0,0,0,131.9,1,3,3,0,,,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Away
+10,11/14/2022,Chargers,W 22 - 16,19,28,240,8.6,0,0,1,10,94.4,5,3,0.6,1,,,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Home
+8,10/30/2022,@Rams,W 31 - 14,21,25,235,9.4,2,0,3,12,132.5,1,3,3,0,,,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Away
+7,10/23/2022,Chiefs,L 23 - 44,25,37,303,8.2,2,1,5,26,99.3,2,2,1,0,1,1,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Home
+6,10/16/2022,@Falcons,L 14 - 28,29,41,296,7.2,2,2,0,0,87,3,11,3.7,0,,,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Away
+5,10/9/2022,@Panthers,W 37 - 15,18,30,253,8.4,2,0,2,9,109.4,1,-1,-1,0,1,0,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Away
+4,10/4/2022,Rams,W 24 - 9,16,27,239,8.8,1,0,0,0,100.7,1,3,3,0,,,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Home
+3,9/26/2022,@Broncos,L 10 - 11,18,29,211,7.3,1,1,4,32,81.2,1,0,0,0,1,1,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Away
+2,9/18/2022,Seahawks,W 27 - 7,13,21,154,7.3,1,0,1,0,100.1,4,5,1.2,1,,,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Home
+1,9/11/2022,@Bears,L 10 - 19,,,,,,,,,,,,,,,,Jimmy Garoppolo,Jimmy-Garoppolo,2022,QB,Las Vegas Raiders,Away
+18,1/8/2023,Browns,W 28 - 14,13,29,195,6.7,1,0,1,6,79,3,1,0.3,0,1,0,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Home
+17,1/2/2023,@Ravens,W 16 - 13,15,27,168,6.2,1,0,2,15,86.6,5,2,0.4,0,,,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Away
+16,12/25/2022,Raiders,W 13 - 10,26,39,244,6.3,1,1,0,0,81.6,3,9,3,0,,,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Home
+15,12/18/2022,@Panthers,W 24 - 16,,,,,,,,,,,,,,,,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Away
+14,12/11/2022,Ravens,L 14 - 16,0,1,0,0,0,0,1,7,39.6,2,16,8,0,,,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Home
+13,12/4/2022,@Falcons,W 19 - 16,16,28,197,7,1,0,0,0,90.9,7,14,2,0,,,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Away
+12,11/29/2022,@Colts,W 24 - 17,20,28,174,6.2,0,0,3,23,87.5,6,32,5.3,0,,,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Away
+11,11/20/2022,Bengals,L 30 - 37,25,42,265,6.3,1,0,2,16,85.9,2,14,7,0,,,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Home
+10,11/13/2022,Saints,W 20 - 10,18,30,199,6.6,0,0,6,37,79.7,8,51,6.4,1,,,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Home
+8,10/30/2022,@Eagles,L 13 - 35,25,38,191,5,0,1,6,38,66.9,7,37,5.3,0,2,1,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Away
+7,10/24/2022,@Dolphins,L 10 - 16,32,44,257,5.8,1,3,2,11,66.2,3,20,6.7,0,,,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Away
+6,10/16/2022,Buccaneers,W 20 - 18,11,18,67,3.7,1,0,1,12,87,2,16,8,0,,,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Home
+5,10/9/2022,@Bills,L 3 - 38,34,52,327,6.3,0,1,3,17,74.8,1,10,10,0,,,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Away
+4,10/2/2022,Jets,L 20 - 24,10,13,120,9.2,0,3,0,0,65.1,6,15,2.5,2,1,0,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Home
+3,9/23/2022,@Browns,L 17 - 29,,,,,,,,,,,,,,,,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Away
+2,9/18/2022,Patriots,L 14 - 17,,,,,,,,,,,,,,,,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Home
+1,9/11/2022,@Bengals,W 23 - 20,,,,,,,,,,,,,,,,Kenny Pickett,Kenny-Pickett,2022,QB,Pittsburgh Steelers,Away
+16,12/24/2022,Texans,L 14 - 19,,,,,,,,,,,,,,,,Ryan Tannehill,Ryan-Tannehill,2022,QB,Tennessee Titans,Home
+15,12/18/2022,@Chargers,L 14 - 17,15,22,165,7.5,0,1,4,28,71.2,3,1,0.3,1,,,Ryan Tannehill,Ryan-Tannehill,2022,QB,Tennessee Titans,Away
+14,12/11/2022,Jaguars,L 22 - 36,25,38,254,6.7,2,1,4,27,91.3,2,16,8,0,1,1,Ryan Tannehill,Ryan-Tannehill,2022,QB,Tennessee Titans,Home
+13,12/4/2022,@Eagles,L 10 - 35,14,22,141,6.4,1,0,6,35,97,3,34,11.3,0,,,Ryan Tannehill,Ryan-Tannehill,2022,QB,Tennessee Titans,Away
+12,11/27/2022,Bengals,L 16 - 20,22,34,291,8.6,0,0,1,10,91.7,2,9,4.5,0,,,Ryan Tannehill,Ryan-Tannehill,2022,QB,Tennessee Titans,Home
+11,11/18/2022,@Packers,W 27 - 17,22,27,333,12.3,2,1,3,17,127.3,3,-3,-1,0,,,Ryan Tannehill,Ryan-Tannehill,2022,QB,Tennessee Titans,Away
+10,11/13/2022,Broncos,W 17 - 10,19,36,255,7.1,2,0,1,11,94.1,2,12,6,0,,,Ryan Tannehill,Ryan-Tannehill,2022,QB,Tennessee Titans,Home
+9,11/7/2022,@Chiefs,L 17 - 20,,,,,,,,,,,,,,,,Ryan Tannehill,Ryan-Tannehill,2022,QB,Tennessee Titans,Away
+8,10/30/2022,@Texans,W 17 - 10,,,,,,,,,,,,,,,,Ryan Tannehill,Ryan-Tannehill,2022,QB,Tennessee Titans,Away
+7,10/23/2022,Colts,W 19 - 10,13,20,132,6.6,0,0,2,16,83.8,4,6,1.5,0,1,1,Ryan Tannehill,Ryan-Tannehill,2022,QB,Tennessee Titans,Home
+5,10/9/2022,@Commanders,W 21 - 17,15,25,181,7.2,1,0,5,45,95.6,3,3,1,0,,,Ryan Tannehill,Ryan-Tannehill,2022,QB,Tennessee Titans,Away
+4,10/2/2022,@Colts,W 24 - 17,17,21,137,6.5,2,0,3,21,125.6,5,9,1.8,0,,,Ryan Tannehill,Ryan-Tannehill,2022,QB,Tennessee Titans,Away
+3,9/25/2022,Raiders,W 24 - 22,19,27,264,9.8,1,1,1,12,98.4,4,2,0.5,1,1,0,Ryan Tannehill,Ryan-Tannehill,2022,QB,Tennessee Titans,Home
+2,9/19/2022,@Bills,L 7 - 41,11,20,117,5.8,0,2,2,16,32.7,1,2,2,0,,,Ryan Tannehill,Ryan-Tannehill,2022,QB,Tennessee Titans,Away
+1,9/11/2022,Giants,L 20 - 21,20,33,266,8.1,2,0,1,0,106.4,2,7,3.5,0,,,Ryan Tannehill,Ryan-Tannehill,2022,QB,Tennessee Titans,Home
+18,1/8/2023,Texans,L 31 - 32,,,,,,,,,,,,,,,,Matt Ryan,Matt-Ryan,2022,QB,None,Home
+17,1/1/2023,@Giants,L 10 - 38,,,,,,,,,,,,,,,,Matt Ryan,Matt-Ryan,2022,QB,None,Away
+16,12/27/2022,Chargers,L 3 - 20,,,,,,,,,,,,,,,,Matt Ryan,Matt-Ryan,2022,QB,None,Home
+15,12/17/2022,@Vikings,L 36 - 39,19,33,182,5.5,1,0,3,12,83.1,3,0,0,0,1,0,Matt Ryan,Matt-Ryan,2022,QB,None,Away
+13,12/5/2022,@Cowboys,L 19 - 54,21,37,233,6.3,2,3,3,30,59.8,3,-2,-0.7,0,1,1,Matt Ryan,Matt-Ryan,2022,QB,None,Away
+12,11/29/2022,Steelers,L 17 - 24,22,34,199,5.8,1,1,3,19,77.9,4,22,5.5,0,2,1,Matt Ryan,Matt-Ryan,2022,QB,None,Home
+11,11/20/2022,Eagles,L 16 - 17,23,32,213,6.7,0,0,4,28,89.7,1,1,1,0,,,Matt Ryan,Matt-Ryan,2022,QB,None,Home
+10,11/13/2022,@Raiders,W 25 - 20,21,28,222,7.9,1,0,1,14,109.5,4,38,9.5,1,,,Matt Ryan,Matt-Ryan,2022,QB,None,Away
+9,11/6/2022,@Patriots,L 3 - 26,,,,,,,,,,,,,,,,Matt Ryan,Matt-Ryan,2022,QB,None,Away
+8,10/30/2022,Commanders,L 16 - 17,,,,,,,,,,,,,,,,Matt Ryan,Matt-Ryan,2022,QB,None,Home
+7,10/23/2022,@Titans,L 10 - 19,33,44,243,5.5,1,2,3,16,76.2,1,2,2,0,,,Matt Ryan,Matt-Ryan,2022,QB,None,Away
+6,10/16/2022,Jaguars,W 34 - 27,42,58,389,6.7,3,0,0,0,107.6,1,-4,-4,0,,,Matt Ryan,Matt-Ryan,2022,QB,None,Home
+5,10/7/2022,@Broncos,W 12 - 9,26,41,251,6.1,0,2,6,51,60.1,1,1,1,0,2,0,Matt Ryan,Matt-Ryan,2022,QB,None,Away
+4,10/2/2022,Titans,L 17 - 24,27,37,356,9.6,2,1,3,29,109.7,2,-4,-2,0,2,1,Matt Ryan,Matt-Ryan,2022,QB,None,Home
+3,9/25/2022,Chiefs,W 20 - 17,27,37,222,6,2,0,5,45,105.9,3,4,1.3,0,2,1,Matt Ryan,Matt-Ryan,2022,QB,None,Home
+2,9/18/2022,@Jaguars,L 0 - 24,16,30,195,6.5,0,3,5,31,34,,,,,1,0,Matt Ryan,Matt-Ryan,2022,QB,None,Away
+1,9/11/2022,@Texans,T 20 - 20,32,50,352,7,1,1,2,12,83.1,4,12,3,0,4,1,Matt Ryan,Matt-Ryan,2022,QB,None,Away
+18,1/8/2023,@Seahawks,L 16 - 19,13,26,147,5.6,0,1,5,24,51.3,5,16,3.2,0,,,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Away
+17,1/1/2023,@Chargers,L 10 - 31,11,19,132,7,0,0,3,21,79.3,3,8,2.7,0,1,1,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Away
+16,12/25/2022,Broncos,W 51 - 14,24,28,230,8.2,2,0,0,0,124.7,2,2,1,0,1,0,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Home
+15,12/20/2022,@Packers,L 12 - 24,12,21,111,5.3,1,1,5,27,67.8,1,1,1,0,1,0,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Away
+14,12/9/2022,Raiders,W 17 - 16,22,35,230,6.6,1,0,4,19,91.4,4,10,2.5,0,,,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Home
+12,11/27/2022,Broncos,W 23 - 10,,,,,,,,,,,,,,,,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Home
+11,11/20/2022,@Ravens,L 3 - 13,21,33,196,5.9,0,2,4,27,54.6,2,12,6,0,,,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Away
+10,11/11/2022,Falcons,W 25 - 15,,,,,,,,,,,,,,,,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Home
+9,11/6/2022,@Bengals,L 21 - 42,14,20,155,7.8,2,0,0,0,126,,,,,,,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Away
+8,10/30/2022,@Falcons,L 34 - 37,,,,,,,,,,,,,,,,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Away
+7,10/23/2022,Buccaneers,W 21 - 3,,,,,,,,,,,,,,,,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Home
+6,10/16/2022,@Rams,L 10 - 24,,,,,,,,,,,,,,,,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Away
+5,10/9/2022,49ers,L 15 - 37,20,36,215,6,0,1,4,16,61.7,,,,,,,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Home
+4,10/2/2022,Cardinals,L 16 - 26,22,36,197,5.5,1,2,2,17,61.9,2,0,0,0,1,1,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Home
+3,9/25/2022,Saints,W 22 - 14,12,25,170,6.8,1,0,3,22,83.8,1,-1,-1,0,,,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Home
+2,9/18/2022,@Giants,L 16 - 19,14,29,145,5,1,0,2,16,74.6,6,35,5.8,0,1,0,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Away
+1,9/11/2022,Browns,L 24 - 26,16,27,235,8.7,1,1,4,28,84.6,5,6,1.2,1,4,0,Baker Mayfield,Baker-Mayfield,2022,QB,Tampa Bay Buccaneers,Home
+18,1/8/2023,Cowboys,W 26 - 6,,,,,,,,,,,,,,,,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Home
+17,1/1/2023,Browns,L 10 - 24,,,,,,,,,,,,,,,,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Home
+16,12/24/2022,@49ers,L 20 - 37,13,18,166,9.2,2,1,2,19,114.6,2,-4,-2,0,1,1,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Away
+15,12/19/2022,Giants,L 12 - 20,17,29,249,8.6,1,0,3,21,98.2,3,33,11,0,2,2,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Home
+13,12/4/2022,@Giants,T 20 - 20,27,41,275,6.7,2,0,5,29,101.2,2,6,3,0,2,1,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Away
+12,11/27/2022,Falcons,W 19 - 13,14,23,138,6,2,1,0,0,88.7,1,-1,-1,0,,,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Home
+11,11/20/2022,@Texans,W 23 - 10,15,27,191,7.1,0,0,0,0,77.8,3,2,0.7,0,1,0,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Away
+10,11/15/2022,@Eagles,W 32 - 21,17,29,211,7.3,0,1,3,33,66.9,5,10,2,0,1,1,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Away
+9,11/6/2022,Vikings,L 17 - 20,15,28,149,5.3,2,1,3,23,77.8,4,17,4.2,0,,,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Home
+8,10/30/2022,@Colts,W 17 - 16,23,31,279,9,1,1,2,13,98.7,6,29,4.8,1,,,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Away
+7,10/23/2022,Packers,W 23 - 21,20,33,201,6.1,2,1,1,3,85.5,2,4,2,0,,,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Home
+6,10/14/2022,@Bears,W 12 - 7,,,,,,,,,,,,,,,,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Away
+5,10/9/2022,Titans,L 17 - 21,,,,,,,,,,,,,,,,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Home
+4,10/2/2022,@Cowboys,L 10 - 25,,,,,,,,,,,,,,,,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Away
+3,9/25/2022,Eagles,L 8 - 24,,,,,,,,,,,,,,,,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Home
+2,9/18/2022,@Lions,L 27 - 36,,,,,,,,,,,,,,,,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Away
+1,9/11/2022,Jaguars,W 28 - 22,,,,,,,,,,,,,,,,Taylor Heinicke,Taylor-Heinicke,2022,QB,Atlanta Falcons,Home
+18,1/8/2023,Cowboys,W 26 - 6,,,,,,,,,,,,,,,,Carson Wentz,Carson-Wentz,2022,QB,None,Home
+17,1/1/2023,Browns,L 10 - 24,16,28,143,5.1,0,3,3,19,31.4,3,7,2.3,1,,,Carson Wentz,Carson-Wentz,2022,QB,None,Home
+16,12/24/2022,@49ers,L 20 - 37,12,16,123,7.7,1,0,0,0,117.4,,,,,,,Carson Wentz,Carson-Wentz,2022,QB,None,Away
+15,12/19/2022,Giants,L 12 - 20,,,,,,,,,,,,,,,,Carson Wentz,Carson-Wentz,2022,QB,None,Home
+6,10/14/2022,@Bears,W 12 - 7,12,22,99,4.5,0,0,3,13,66.3,2,2,1,0,,,Carson Wentz,Carson-Wentz,2022,QB,None,Away
+5,10/9/2022,Titans,L 17 - 21,25,38,359,9.4,2,1,3,17,102.8,5,15,3,0,3,0,Carson Wentz,Carson-Wentz,2022,QB,None,Home
+4,10/2/2022,@Cowboys,L 10 - 25,25,42,170,4,1,2,2,15,56.6,1,5,5,0,,,Carson Wentz,Carson-Wentz,2022,QB,None,Away
+3,9/25/2022,Eagles,L 8 - 24,25,43,211,4.9,0,0,9,58,71,3,22,7.3,0,2,1,Carson Wentz,Carson-Wentz,2022,QB,None,Home
+2,9/18/2022,@Lions,L 27 - 36,30,46,337,7.3,3,1,5,29,99.6,2,23,11.5,0,1,0,Carson Wentz,Carson-Wentz,2022,QB,None,Away
+1,9/11/2022,Jaguars,W 28 - 22,27,41,313,7.6,4,2,1,8,101,6,12,2,0,,,Carson Wentz,Carson-Wentz,2022,QB,None,Home
+12,11/27/2022,@Chiefs,L 10 - 26,,,,,,,,,,,,,,,,Matthew Stafford,Matthew-Stafford,2022,QB,Los Angeles Rams,Away
+11,11/20/2022,@Saints,L 20 - 27,11,18,159,8.8,2,0,1,9,126.8,1,4,4,0,,,Matthew Stafford,Matthew-Stafford,2022,QB,Los Angeles Rams,Away
+10,11/13/2022,Cardinals,L 17 - 27,,,,,,,,,,,,,,,,Matthew Stafford,Matthew-Stafford,2022,QB,Los Angeles Rams,Home
+9,11/6/2022,@Buccaneers,L 13 - 16,13,27,165,6.1,1,0,4,27,80,2,-1,-0.5,0,1,0,Matthew Stafford,Matthew-Stafford,2022,QB,Los Angeles Rams,Away
+8,10/30/2022,49ers,L 14 - 31,22,33,187,5.7,1,0,2,20,91.4,2,-1,-0.5,1,,,Matthew Stafford,Matthew-Stafford,2022,QB,Los Angeles Rams,Home
+6,10/16/2022,Panthers,W 24 - 10,26,33,253,7.7,1,1,1,4,96.1,2,-3,-1.5,0,,,Matthew Stafford,Matthew-Stafford,2022,QB,Los Angeles Rams,Home
+5,10/9/2022,Cowboys,L 10 - 22,28,42,308,7.3,1,1,5,35,86.2,,,,,2,2,Matthew Stafford,Matthew-Stafford,2022,QB,Los Angeles Rams,Home
+4,10/4/2022,@49ers,L 9 - 24,32,48,254,5.3,0,1,7,54,71,2,6,3,0,1,1,Matthew Stafford,Matthew-Stafford,2022,QB,Los Angeles Rams,Away
+3,9/25/2022,@Cardinals,W 20 - 12,18,25,249,10,0,0,1,10,103.6,3,2,0.7,0,,,Matthew Stafford,Matthew-Stafford,2022,QB,Los Angeles Rams,Away
+2,9/18/2022,Falcons,W 31 - 27,27,36,272,7.6,3,2,1,0,100.7,,,,,,,Matthew Stafford,Matthew-Stafford,2022,QB,Los Angeles Rams,Home
+1,9/9/2022,Bills,L 10 - 31,29,41,240,5.8,1,3,7,49,63.1,1,2,2,0,1,0,Matthew Stafford,Matthew-Stafford,2022,QB,Los Angeles Rams,Home
